@@ -6,6 +6,8 @@
 
 | Skill | 说明 |
 |-------|------|
+| [xmind](xmind/SKILL.md) | 读写、转换 .xmind 思维导图文件（Zen + Legacy 格式），支持 JSON/YAML/Markdown/CSV/OPML 互转，无需安装 XMind。 |
+| [cn-formal-docx](cn-formal-docx/SKILL.md) | 中文规范文档（docx）排版与格式规范。仿宋三号、标题分级、自动编号题注、图随章节等中文公文排版，内置 OOXML 校验。 |
 | [team-skills-hub](team-skills-hub/SKILL.md) | 管理团队共享 skill 仓库（cae-share/skills）。安装/更新/提交/新建团队 skill，支持多种 harness。首次使用自动引导配置。 |
 
 ## 安装

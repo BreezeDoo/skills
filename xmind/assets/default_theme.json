@@ -1,0 +1,258 @@
+{
+  "map": {
+    "id": "eed25000-680e-4f5f-93b9-bbf981e8083c",
+    "properties": {
+      "svg:fill": "#ffffff",
+      "multi-line-colors": "#FF6B6B #FF9F69 #97D3B6 #88E2D7 #6FD0F9 #E18BEE",
+      "color-list": "#FF6B6B #FF9F69 #97D3B6 #88E2D7 #6FD0F9 #E18BEE",
+      "line-tapered": "none"
+    }
+  },
+  "centralTopic": {
+    "id": "404fa8cb-85e6-4be2-9b47-ec60dca4c06f",
+    "properties": {
+      "fo:font-family": "NeverMind",
+      "fo:font-size": "30pt",
+      "fo:font-weight": "800",
+      "fo:font-style": "normal",
+      "fo:color": "inherited",
+      "fo:text-transform": "manual",
+      "fo:text-decoration": "none",
+      "fo:text-align": "center",
+      "svg:fill": "#000000",
+      "fill-pattern": "none",
+      "line-width": "2pt",
+      "line-color": "#ADADAD",
+      "line-pattern": "solid",
+      "border-line-color": "#000000",
+      "border-line-width": "0pt",
+      "border-line-pattern": "inherited",
+      "shape-class": "org.xmind.topicShape.roundedRect",
+      "line-class": "org.xmind.branchConnection.curve",
+      "arrow-end-class": "org.xmind.arrowShape.none",
+      "alignment-by-level": "inherited"
+    }
+  },
+  "mainTopic": {
+    "id": "c3b80871-b4e1-4e54-9793-8eada04e77b1",
+    "properties": {
+      "fo:font-family": "NeverMind",
+      "fo:font-size": "18pt",
+      "fo:font-weight": "500",
+      "fo:font-style": "normal",
+      "fo:color": "inherited",
+      "fo:text-transform": "manual",
+      "fo:text-decoration": "none",
+      "fo:text-align": "left",
+      "svg:fill": "inherited",
+      "fill-pattern": "solid",
+      "line-width": "2pt",
+      "line-color": "inherited",
+      "line-pattern": "inherited",
+      "border-line-color": "inherited",
+      "border-line-width": "0pt",
+      "border-line-pattern": "inherited",
+      "shape-class": "org.xmind.topicShape.roundedRect",
+      "line-class": "org.xmind.branchConnection.roundedElbow",
+      "arrow-end-class": "inherited",
+      "alignment-by-level": "inherited"
+    }
+  },
+  "subTopic": {
+    "id": "62a5ae04-e4cc-44e5-ab9b-99d6292bfc72",
+    "properties": {
+      "fo:font-family": "NeverMind",
+      "fo:font-size": "14pt",
+      "fo:font-weight": "400",
+      "fo:font-style": "normal",
+      "fo:color": "inherited",
+      "fo:text-transform": "manual",
+      "fo:text-decoration": "none",
+      "fo:text-align": "left",
+      "svg:fill": "inherited",
+      "fill-pattern": "none",
+      "line-width": "2pt",
+      "line-color": "inherited",
+      "line-pattern": "inherited",
+      "border-line-color": "inherited",
+      "border-line-width": "0pt",
+      "border-line-pattern": "inherited",
+      "shape-class": "org.xmind.topicShape.roundedRect",
+      "line-class": "org.xmind.branchConnection.roundedElbow",
+      "arrow-end-class": "inherited",
+      "alignment-by-level": "inherited"
+    }
+  },
+  "floatingTopic": {
+    "id": "8074f950-7d99-41d2-b2c7-1f3a9d27e8bd",
+    "properties": {
+      "fo:font-family": "NeverMind",
+      "fo:font-size": "14pt",
+      "fo:font-weight": "500",
+      "fo:font-style": "normal",
+      "fo:color": "inherited",
+      "fo:text-transform": "manual",
+      "fo:text-decoration": "none",
+      "fo:text-align": "left",
+      "svg:fill": "#EEEBEE",
+      "fill-pattern": "solid",
+      "line-width": "2pt",
+      "line-color": "inherited",
+      "line-pattern": "solid",
+      "border-line-color": "#EEEBEE",
+      "border-line-width": "0pt",
+      "border-line-pattern": "inherited",
+      "shape-class": "org.xmind.topicShape.roundedRect",
+      "line-class": "org.xmind.branchConnection.roundedElbow",
+      "arrow-end-class": "org.xmind.arrowShape.none",
+      "alignment-by-level": "inherited"
+    }
+  },
+  "summaryTopic": {
+    "id": "da39d92c-d877-4526-8727-dadacd3b894e",
+    "properties": {
+      "fo:font-family": "NeverMind",
+      "fo:font-size": "14pt",
+      "fo:font-weight": "400",
+      "fo:font-style": "normal",
+      "fo:color": "inherited",
+      "fo:text-transform": "manual",
+      "fo:text-decoration": "none",
+      "fo:text-align": "left",
+      "svg:fill": "#000000",
+      "fill-pattern": "none",
+      "line-width": "inherited",
+      "line-color": "inherited",
+      "line-pattern": "inherited",
+      "border-line-color": "#000000",
+      "border-line-width": "inherited",
+      "border-line-pattern": "inherited",
+      "shape-class": "org.xmind.topicShape.roundedRect",
+      "line-class": "org.xmind.branchConnection.roundedElbow",
+      "arrow-end-class": "inherited",
+      "alignment-by-level": "inherited"
+    }
+  },
+  "calloutTopic": {
+    "id": "fb13359e-db90-4e69-a519-d3d0fd383141",
+    "properties": {
+      "fo:font-family": "NeverMind",
+      "fo:font-size": "14pt",
+      "fo:font-weight": "400",
+      "fo:font-style": "normal",
+      "fo:color": "inherited",
+      "fo:text-transform": "manual",
+      "fo:text-decoration": "none",
+      "fo:text-align": "left",
+      "svg:fill": "#000000",
+      "fill-pattern": "solid",
+      "line-width": "inherited",
+      "line-color": "inherited",
+      "line-pattern": "inherited",
+      "border-line-color": "#000000",
+      "border-line-width": "inherited",
+      "border-line-pattern": "inherited",
+      "shape-class": "org.xmind.topicShape.roundedRect",
+      "line-class": "org.xmind.branchConnection.roundedElbow",
+      "arrow-end-class": "inherited",
+      "alignment-by-level": "inherited"
+    }
+  },
+  "importantTopic": {
+    "id": "a138cbbb-06a2-4b3c-be8b-086f083a9e90",
+    "properties": {
+      "fo:font-weight": "bold",
+      "svg:fill": "#7F00AC",
+      "fill-pattern": "solid",
+      "border-line-color": "#7F00AC",
+      "border-line-width": "0"
+    }
+  },
+  "minorTopic": {
+    "id": "53a5f28b-0f8d-4daf-9f2e-d6ca1a2a1425",
+    "properties": {
+      "fo:font-weight": "bold",
+      "svg:fill": "#82004A",
+      "fill-pattern": "solid",
+      "border-line-color": "#82004A",
+      "border-line-width": "0"
+    }
+  },
+  "expiredTopic": {
+    "id": "d3a3c275-083f-4c21-a72e-8c3f253835e6",
+    "properties": {
+      "fo:text-decoration": "line-through",
+      "fill-pattern": "none"
+    }
+  },
+  "boundary": {
+    "id": "9865f0a9-58bb-44fb-9fe6-5d758804194d",
+    "properties": {
+      "fo:font-family": "NeverMind",
+      "fo:font-size": "14pt",
+      "fo:font-weight": "400",
+      "fo:font-style": "normal",
+      "fo:color": "inherited",
+      "fo:text-transform": "manual",
+      "fo:text-decoration": "none",
+      "fo:text-align": "center",
+      "svg:fill": "#9B9B9B",
+      "fill-pattern": "solid",
+      "line-width": "2",
+      "line-color": "#00000066",
+      "line-pattern": "dash",
+      "shape-class": "org.xmind.boundaryShape.roundedRect"
+    }
+  },
+  "summary": {
+    "id": "bac18ada-d2cc-46ca-a319-a2f4b708195b",
+    "properties": {
+      "line-width": "2pt",
+      "line-color": "#000000",
+      "line-pattern": "solid",
+      "shape-class": "org.xmind.summaryShape.round"
+    }
+  },
+  "relationship": {
+    "id": "383c1a23-0cbb-4a9d-9834-34971ffd372e",
+    "properties": {
+      "fo:font-family": "NeverMind",
+      "fo:font-size": "13pt",
+      "fo:font-weight": "400",
+      "fo:font-style": "normal",
+      "fo:color": "inherited",
+      "fo:text-transform": "manual",
+      "fo:text-decoration": "none",
+      "fo:text-align": "center",
+      "line-width": "2",
+      "line-color": "#00000066",
+      "line-pattern": "dash",
+      "shape-class": "org.xmind.relationshipShape.curved",
+      "arrow-begin-class": "org.xmind.arrowShape.none",
+      "arrow-end-class": "org.xmind.arrowShape.triangle"
+    }
+  },
+  "level3": {
+    "id": "f596eaee-9fac-4806-a496-e6fde176dcb5",
+    "properties": {
+      "fo:font-family": "NeverMind",
+      "fo:font-size": "14pt",
+      "fo:font-weight": "400",
+      "fo:font-style": "normal",
+      "fo:text-transform": "manual",
+      "fo:text-decoration": "none",
+      "fo:text-align": "left",
+      "fill-pattern": "solid",
+      "line-width": "2pt",
+      "line-pattern": "inherited",
+      "border-line-width": "0pt",
+      "border-line-pattern": "inherited",
+      "shape-class": "org.xmind.topicShape.roundedRect",
+      "line-class": "org.xmind.branchConnection.roundedElbow",
+      "arrow-end-class": "inherited",
+      "alignment-by-level": "inherited"
+    }
+  },
+  "skeletonThemeId": "8f137afe-a0f3-4f25-b56a-cfd05993ef4b",
+  "colorThemeId": "Dawn-#ffffff-MULTI_LINE_COLORS"
+}
